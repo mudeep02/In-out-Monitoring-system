@@ -51,7 +51,8 @@ The system processes live video streams or recorded footage to monitor occupancy
 
 
 <img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/72277cc0-974d-4393-93fc-4389dcf76cf4" />
-![Uploading Screenshot (15).png…]()
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/667b3a1d-79a6-4240-9c44-05f0d7e8f1be" />
+
 
 
 ## ⚙️ Installation
